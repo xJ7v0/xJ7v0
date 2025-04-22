@@ -24,8 +24,6 @@ Python
 
 ## TODO:
 
-Get urchin libc in a public state
-
 Port GCC and the C language runtime to TempleOS
 
 Make a portage repo with for all the repositories on my GitHub page
